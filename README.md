@@ -3,7 +3,6 @@
 > Conceptual consumer product designed to emit a continuous stream of controlled air vortices.
 
 #
-#### Air Vortex Blower Concept
 
 The Directional Air Vortex Blower is an innovative design concept inspired by the mechanics of air vortex guns. This product is designed to emit a continuous stream of controlled air vortices, creating a unique and efficient way to direct airflow. Unlike traditional blowers that produce a continuous and unstructured stream of air, the air vortex blower generates a series of discrete toroidal air currents, or vortices, which can travel significant distances while maintaining their structure and speed. This characteristic allows for precise targeting and minimal air dispersion, making it highly effective in various applications.
 
