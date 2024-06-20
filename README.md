@@ -5,8 +5,6 @@
 #
 #### Air Vortex Blower Concept
 
-Conceptual consumer product designed to emit a continuous stream of controlled air vortices.
-
 The Directional Air Vortex Blower is an innovative design concept inspired by the mechanics of air vortex guns. This product is designed to emit a continuous stream of controlled air vortices, creating a unique and efficient way to direct airflow. Unlike traditional blowers that produce a continuous and unstructured stream of air, the air vortex blower generates a series of discrete toroidal air currents, or vortices, which can travel significant distances while maintaining their structure and speed. This characteristic allows for precise targeting and minimal air dispersion, making it highly effective in various applications.
 
 The core mechanism of the Directional Air Vortex Blower involves a specially designed chamber where air is accelerated and given a rotational motion. This rotational motion causes the air to form a series of vortex rings as it exits the blower. The continuous stream of these vortices ensures that the airflow remains steady yet structured, maintaining its coherence over a long distance. The image provided shows the concept of the air vortex ring, illustrating how the air swirls around a central axis while moving forward. This design leverages the natural stability of vortex rings to maintain the direction and intensity of the airflow.
