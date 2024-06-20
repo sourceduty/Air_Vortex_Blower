@@ -50,7 +50,7 @@ Ducted fan technology is also prominent in modern unmanned aerial vehicles (UAVs
 
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
 <br>
-[Air Bubble Clobk](https://github.com/sourceduty/Air_Bubble_Clock)
+[Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
 <br>
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
 
