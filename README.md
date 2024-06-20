@@ -46,6 +46,7 @@ The materials used for ducted fan blades are typically lightweight and durable, 
 Ducted fan technology is also prominent in modern unmanned aerial vehicles (UAVs) and drones. The enclosed design offers additional safety, reducing the risk of injury from exposed blades. Additionally, the duct can improve the thrust-to-weight ratio, enabling more efficient vertical takeoffs and landings. In the marine sector, ducted fans are used in azimuth thrusters, which provide precise maneuverability for ships and submarines. Overall, ducted fan blades represent a significant advancement in propulsion technology, combining efficiency, safety, and performance in a variety of critical applications.
 
 #
+### Related Links
 
 [Body Dryer Pod](https://github.com/sourceduty/Body_Dryer_Pod)
 <br>
